@@ -1,5 +1,8 @@
 module TotoIM2AG
 
+export f
+
 # Write your package code here.
-f(x) = 2x
+include("essai.jl")
+
 end
