@@ -1,0 +1,7 @@
+name = "TotoIM2AG"
+uuid = "399e3627-c0d8-44a3-929a-3d1035689e3b"
+authors = ["rcqls <rdrouilh@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
